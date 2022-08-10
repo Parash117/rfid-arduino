@@ -6,3 +6,7 @@ https://lastminuteengineers.com/how-rfid-works-rc522-arduino-tutorial/#:~:text=T
 
 Reference for starting the setup:
 https://create.arduino.cc/projecthub/Aritro/security-access-using-rfid-reader-f7c746
+
+
+Java's serial Port Reader Dependency:
+https://fazecast.github.io/jSerialComm/
